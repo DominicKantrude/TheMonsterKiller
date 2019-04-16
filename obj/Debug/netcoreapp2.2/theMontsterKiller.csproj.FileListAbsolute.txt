@@ -1,0 +1,11 @@
+/Users/dominickantrude/workspace/csharp/exercises/theMontsterKiller/obj/Debug/netcoreapp2.2/theMontsterKiller.csprojAssemblyReference.cache
+/Users/dominickantrude/workspace/csharp/exercises/theMontsterKiller/obj/Debug/netcoreapp2.2/theMontsterKiller.csproj.CoreCompileInputs.cache
+/Users/dominickantrude/workspace/csharp/exercises/theMontsterKiller/obj/Debug/netcoreapp2.2/theMontsterKiller.AssemblyInfoInputs.cache
+/Users/dominickantrude/workspace/csharp/exercises/theMontsterKiller/obj/Debug/netcoreapp2.2/theMontsterKiller.AssemblyInfo.cs
+/Users/dominickantrude/workspace/csharp/exercises/theMontsterKiller/bin/Debug/netcoreapp2.2/theMontsterKiller.deps.json
+/Users/dominickantrude/workspace/csharp/exercises/theMontsterKiller/bin/Debug/netcoreapp2.2/theMontsterKiller.runtimeconfig.json
+/Users/dominickantrude/workspace/csharp/exercises/theMontsterKiller/bin/Debug/netcoreapp2.2/theMontsterKiller.runtimeconfig.dev.json
+/Users/dominickantrude/workspace/csharp/exercises/theMontsterKiller/bin/Debug/netcoreapp2.2/theMontsterKiller.dll
+/Users/dominickantrude/workspace/csharp/exercises/theMontsterKiller/bin/Debug/netcoreapp2.2/theMontsterKiller.pdb
+/Users/dominickantrude/workspace/csharp/exercises/theMontsterKiller/obj/Debug/netcoreapp2.2/theMontsterKiller.dll
+/Users/dominickantrude/workspace/csharp/exercises/theMontsterKiller/obj/Debug/netcoreapp2.2/theMontsterKiller.pdb
